@@ -1,7 +1,7 @@
-Speedrun mode v49c for speedrun v49c rebuilt on the reTHAWed 5.0.1.0 release (game folder version.txt = 5.0.1.0, installed 2026-11-03).
+Speedrun mode v49c, rebuilt on the reTHAWed 5.0.1.0 release (version.txt = 5.0.1.0).
 
 Base files: <game>\data\mod\qb.pak.wpc, qb.pab.wpc and data\mod\Zones\z_mainmenu\z_mainmenu.pak.wpc as installed by the
-5.0.1.0 update, copied to ORIGINALMODBACKUPS_5010. Same env as build.ps1 (all v49c switches incl. FLAG_RESET=1 TOUR_DIFF=1) plus NORM_NL=1.
+5.0.1.0 update (not included here). Same env as build.ps1 (all v49c switches incl. FLAG_RESET=1 TOUR_DIFF=1) plus NORM_NL=1.
 
 Install: copy qb.pak.wpc + qb.pab.wpc to <game>\data\mod\ and z_mainmenu.pak.wpc to <game>\data\mod\Zones\z_mainmenu\.
 Only for reTHAWed 5.0.1.0. Uninstall: put back the stock files (re-run the reTHAWed launcher's repair/update, or restore your own backup).
